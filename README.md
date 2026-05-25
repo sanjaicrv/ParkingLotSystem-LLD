@@ -1135,6 +1135,9 @@ The UML demonstrates:
 ## Show FloorAvailability
 <img width="655" height="395" alt="LL6" src="https://github.com/user-attachments/assets/9e7dded2-5835-4878-b1d4-27e08c96f926" />
 
+## Show GateInformation
+<img width="465" height="235" alt="LL7" src="https://github.com/user-attachments/assets/f9d88a41-41e5-4c52-9760-78ff765810fb" />
+
 ---
 
 
