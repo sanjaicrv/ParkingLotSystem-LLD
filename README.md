@@ -1097,10 +1097,8 @@ Design choices reflect scalability considerations.
 
 ## System Class Diagram
 
-> Add your UML image here
-
 ```text
-/docs/parking-lot-class-diagram.png
+D:\LLD\ParkingLotSystem - Class diagram.png
 ```
 
 The UML demonstrates:
