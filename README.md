@@ -1097,9 +1097,7 @@ Design choices reflect scalability considerations.
 
 ## System Class Diagram
 
-```text
-D:\LLD\ParkingLotSystem - Class diagram.png
-```
+<img width="2212" height="1496" alt="ParkingLotSystem - Class diagram" src="https://github.com/user-attachments/assets/03fdae8f-f77d-45fc-8297-4015243dc3ed" />
 
 The UML demonstrates:
 
@@ -1113,23 +1111,24 @@ The UML demonstrates:
 
 # 📸 Screenshots
 
-## Console Application
-
-> Add screenshots here
-
-```text
-/docs/screenshots/
-```
-
-Suggested screenshots:
-
-* Main menu
-* Ticket generation
-* Parking availability
-* Payment workflow
-* Strategy switching
-
+## Console Application Hosted On Replit
+<img width="1897" height="989" alt="UI" src="https://github.com/user-attachments/assets/7f4a9858-1681-41dd-bf45-faec6a986e46" />
+## Main Menu
+<img width="534" height="261" alt="mainmenu" src="https://github.com/user-attachments/assets/d277db6b-7321-4ea9-97bb-a3dca5ef7c7c" />
+## Park Vehicle
+<img width="939" height="486" alt="LL2" src="https://github.com/user-attachments/assets/4e972ced-0c47-4bc0-b88d-ddae95365c75" />
+## UnPark Vehicle
+<img width="688" height="408" alt="image" src="https://github.com/user-attachments/assets/1d8ab749-5bc8-4d16-9dc9-c298b25fc3d0" />
+## Show AvailableSpots
+<img width="754" height="391" alt="LL3" src="https://github.com/user-attachments/assets/fff55004-9002-4309-a380-820e75d09071" />
+## Show AvailableTickets
+<img width="533" height="344" alt="LL4" src="https://github.com/user-attachments/assets/2b9d0a78-e3d2-498f-aada-5f297ed23e91" />
+## Change Parking Strategy & Fee Strategy
+<img width="508" height="649" alt="LL5" src="https://github.com/user-attachments/assets/d4c367a1-d2f6-4231-b6fa-e631891b0988" />
+## Show FloorAvailability
+<img width="655" height="395" alt="LL6" src="https://github.com/user-attachments/assets/9e7dded2-5835-4878-b1d4-27e08c96f926" />
 ---
+
 
 # 🤝 Contribution Guidelines
 
